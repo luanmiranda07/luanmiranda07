@@ -17,6 +17,7 @@ Presto suporte técnico e funcional aos usuários, auxiliando com dúvidas e ori
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
+  
 Sou um profissional com experiência em suporte técnico e grande interesse nas áreas de automação, análise de dados e inteligência artificial. Possuo conhecimento intermediário em Python e Java, além de domínio em HTML, CSS e SQL.Atuei como estagiário na área de sistemas de TI, com foco no sistema Nomus ERP, onde adquiri conhecimento em rotinas de gestão empresarial e integração de processos. Também tenho vivência no desenvolvimento de dashboards e na criação de scripts de automação para otimização de tarefas, utilizando bibliotecas como Selenium, PyAutoGUI, BeautifulSoup (BS4) e Pandas.
 Atualmente, me aprofundo em RPA, explorando a plataforma n8n para orquestração de fluxos automatizados, e estudo agentes de IA com foco em soluções inteligentes.
 Sou proativo, com facilidade para aprender novas tecnologias e motivado pelo desenvolvimento profissional contínuo. Meu objetivo é aplicar soluções eficientes que otimizem processos e gerem valor real para as empresas.         
