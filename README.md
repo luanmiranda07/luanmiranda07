@@ -3,15 +3,10 @@ Curso ciencia da computaçao , estou estagiando em uma empresa , como Estagiári
 ##
 Resumo das Atividades:
 
-Atuo diretamente no processo de implantação de sistemas ERP, apoiando desde o levantamento de informações iniciais até a entrada em produção.
-
 Sou responsável pela organização, estruturação e saneamento de dados (clientes, produtos, estoque, notas fiscais etc.) a fim de garantir uma migração precisa e eficiente para o novo sistema.
 
-Presto suporte técnico e funcional aos usuários durante o processo de implantação, auxiliando com dúvidas e orientações.
+Presto suporte técnico e funcional aos usuários, auxiliando com dúvidas e orientações.
 
-Colaboro na documentação de processos e treinamento de usuários finais, garantindo uma transição segura e clara para o novo ambiente.
-
-Utilizo ferramentas como Excel, Google Sheets, SQL básico (se aplicável), além do próprio sistema ERP, para realizar importações, análises e ajustes de dados.
 ##
 
 ## Habilidades:
@@ -22,7 +17,9 @@ Utilizo ferramentas como Excel, Google Sheets, SQL básico (se aplicável), alé
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
-            
+Sou um profissional com experiência em suporte técnico e grande interesse nas áreas de automação, análise de dados e inteligência artificial. Possuo conhecimento intermediário em Python e Java, além de domínio em HTML, CSS e SQL.Atuei como estagiário na área de sistemas de TI, com foco no sistema Nomus ERP, onde adquiri conhecimento em rotinas de gestão empresarial e integração de processos. Também tenho vivência no desenvolvimento de dashboards e na criação de scripts de automação para otimização de tarefas, utilizando bibliotecas como Selenium, PyAutoGUI, BeautifulSoup (BS4) e Pandas.
+Atualmente, me aprofundo em RPA, explorando a plataforma n8n para orquestração de fluxos automatizados, e estudo agentes de IA com foco em soluções inteligentes.
+Sou proativo, com facilidade para aprender novas tecnologias e motivado pelo desenvolvimento profissional contínuo. Meu objetivo é aplicar soluções eficientes que otimizem processos e gerem valor real para as empresas.         
           
 </div>
 
