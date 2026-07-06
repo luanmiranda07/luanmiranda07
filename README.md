@@ -1,33 +1,67 @@
-## Olá 👋, sou Luan Miranda e sou um Estudante de TI
-Curso ciencia da computaçao , estou estagiando em uma empresa , como Estagiário de Implantação – Sistema ERP
-##
-Resumo das Atividades:
+<h1 align="center">Olá! Eu sou Luan Miranda 👋</h1>
 
-Sou responsável pela organização, estruturação e saneamento de dados (clientes, produtos, estoque, notas fiscais etc.) a fim de garantir uma migração precisa e eficiente para o novo sistema.
+<h3 align="center">
+Python | Automação de Processos | Análise de Dados | Inteligência Artificial
+</h3>
 
-Presto suporte técnico e funcional aos usuários, auxiliando com dúvidas e orientações.
+<p align="center">
+Desenvolvo soluções para transformar processos manuais em fluxos automatizados, organizados e eficientes.
+</p>
 
-##
+---
 
-## Habilidades:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-##  
-Sou um profissional com experiência em suporte técnico e grande interesse nas áreas de automação, análise de dados e inteligência artificial. Possuo conhecimento intermediário em Python e Java, além de domínio em HTML, CSS e SQL.Atuei como estagiário na área de sistemas de TI, com foco no sistema Nomus ERP, onde adquiri conhecimento em rotinas de gestão empresarial e integração de processos. Também tenho vivência no desenvolvimento de dashboards e na criação de scripts de automação para otimização de tarefas, utilizando bibliotecas como Selenium, PyAutoGUI, BeautifulSoup (BS4) e Pandas.
-Atualmente, me aprofundo em RPA, explorando a plataforma n8n para orquestração de fluxos automatizados, e estudo agentes de IA com foco em soluções inteligentes.
-Sou proativo, com facilidade para aprender novas tecnologias e motivado pelo desenvolvimento profissional contínuo. Meu objetivo é aplicar soluções eficientes que otimizem processos e gerem valor real para as empresas.         
-          
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Ciência da Computação** e profissional de tecnologia com experiência no desenvolvimento de soluções voltadas à **automação de processos, tratamento de dados, inteligência artificial e integração de sistemas**.
+
+Utilizo principalmente **Python** para criar aplicações que automatizam atividades operacionais, processam planilhas, extraem informações de documentos, integram APIs e reduzem tarefas manuais.
+
+Tenho experiência com:
+
+- Automação de processos e rotinas corporativas;
+- Manipulação e análise de dados com Python e Pandas;
+- Processamento de arquivos PDF, Excel e Word;
+- Desenvolvimento de interfaces gráficas;
+- Web scraping e automação de navegadores;
+- Integração com APIs e modelos de inteligência artificial;
+- Criação de workflows com n8n;
+- Desenvolvimento de soluções para Legal Tech e Legal Operations;
+- Banco de dados e consultas SQL.
+
+Atualmente, estou aprofundando meus conhecimentos em **engenharia de dados, inteligência artificial aplicada, desenvolvimento backend e automação inteligente**.
+
+---
+
+## 🚀 Principais tecnologias
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 </div>
 
-## 
+---
 
-<div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "luan.oliveira0602@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luan-miranda0602/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 🧠 Conhecimentos e ferramentas
+
+```text
+Linguagens:           Python, SQL, Java, JavaScript, HTML e CSS
+Dados:                Pandas, Excel, OpenPyXL, MySQL e PostgreSQL
+Automação:            Selenium, PyAutoGUI, BeautifulSoup e n8n
+Inteligência Artificial: OpenAI API, LLMs e agentes de IA
+Documentos:           PDFPlumber, PyMuPDF, Python-docx e Pillow
+Backend:              Django, Flask e APIs REST
+Ferramentas:          Git, GitHub, Docker, Postman e Power BI  
